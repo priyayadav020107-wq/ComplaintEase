@@ -18,4 +18,23 @@ ComplaintEase/
 └── frontend/    - React (Vite) client
 ```
 
+## Screenshots
+### Login Page
+![Admin Login Page](screenshots/adminLoginPage.png)
+![User Login Page](screenshots/UserLoginPage.png)
+
+### Dashboard
+![Admin Dashboard Page](screenshots/AdminDashboard.png)
+![User Dashboard Page](screenshots/UserDashboard.png)
+
+### All Complaints
+![All Complaints](screenshots/AllComplaints.png)
+
+
+### My Complaints
+![My Complaints](screenshots/MyComplaints.png)
+
+### Profile & Settings
+![Profile & Settings](screenshots/Profile&Settings.png)
+
 See the setup guide provided alongside this project for step-by-step run instructions.
